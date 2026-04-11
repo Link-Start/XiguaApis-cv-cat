@@ -1,4 +1,4 @@
-from utils.WatermelonUtils import trans_cookies
+from utils.watermelon_utils import trans_cookies
 
 class WatermelonAuth:
     def __init__(self):
